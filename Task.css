@@ -1,0 +1,14 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+    text-emphasis-color: rgba(255, 94, 0, 0.847);
+}
+/* Now to add spacing */
+
+input[type="text"]{
+    margin: 10px 0;
+    /*display:block;   forces each new text box to start from a new line without it can also run properly but sometimes can make problem*/
+}
