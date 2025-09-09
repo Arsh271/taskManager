@@ -38,7 +38,7 @@ Task-Manager/
 
 ## 🖥️ Demo Screenshot
 
-\*(Add a screenshot here if you’d like, e.g., `![App Screenshot](screenshot.png)`)
+<img width="947" height="952" alt="image" src="https://github.com/user-attachments/assets/2d05bb65-114f-41a4-86e8-f1b78250bcb5" />
 
 ---
 
