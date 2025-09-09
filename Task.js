@@ -1,4 +1,4 @@
-let count=1;
+let count=0;
 
 
 function addTask(){
@@ -18,12 +18,14 @@ function addTask(){
     input.placeholder="Enter Task";
     // document.getElementById("inputArea").appendChild(input).style.background="lightblue";
 
+    let checkbox = document.createElement("input");
+    checkbox.type = "checkbox";
 
 
 
     wrapper.appendChild(label);
     wrapper.appendChild(input);
-    
+    wrapper.appendChild(checkbox); 
 
     document.getElementById("ToDo").appendChild(wrapper);
 
